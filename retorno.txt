@@ -1,0 +1,15 @@
+57213478052 ==> CPF Válido!!
+21231314223 ==> CPF Não Válido!!
+33434355555 ==> CPF Não Válido!!
+25538261093 ==> CPF Válido!!
+57213478052 ==> CPF Válido!!
+43306027847 ==> CPF Válido!!
+21231314223 ==> CPF Não Válido!!
+33434355555 ==> CPF Não Válido!!
+25538261093 ==> CPF Válido!!
+57213478052 ==> CPF Válido!!
+43306027847 ==> CPF Válido!!
+21231314223 ==> CPF Não Válido!!
+33434355555 ==> CPF Não Válido!!
+25538261093 ==> CPF Válido!!
+57213478052 ==> CPF Válido!!
